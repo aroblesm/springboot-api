@@ -22,12 +22,10 @@ public class EmpresaController {
 
     @GetMapping("/empresas")
     public List<Empresa> getEmpresas(
-            @RequestParam(value="idestado") Long idestado,
-            @RequestParam(value="idmunicipio") Long idmunicipio,
-            @RequestParam(value="tipo") String tipo
+            @RequestParam(value="idestado") Long idestado
             )
     {
-        return empresaRepository.findEmpresasByMunicipio(idestado, idmunicipio, tipo);
+        return empresaRepository.findEmpresasByMunicipio(idestado);
     }
   
     

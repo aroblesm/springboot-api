@@ -4,7 +4,6 @@ C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauth
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\security\services\UserPrinciple.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\controller\EstadoController.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\message\request\SignUpForm.java
-C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\model\Municipio.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\model\Role.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\repository\RoleRepository.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\model\Estado.java
@@ -16,17 +15,12 @@ C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauth
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\SpringBootJwtAuthenticationApplication.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\controller\AuthRestAPIs.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\controller\TestRestAPIs.java
-C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\model\Categoria.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\security\jwt\JwtAuthEntryPoint.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\security\jwt\JwtAuthTokenFilter.java
-C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\controller\MunicipioController.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\security\services\UserDetailsServiceImpl.java
-C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\controller\CategoriaController.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\message\request\LoginForm.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\message\response\JwtResponse.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\repository\UserRepository.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\repository\ImcRepository.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\model\Imc.java
-C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\repository\CategoriaRepository.java
 C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\controller\EmpresaController.java
-C:\Users\arobles\Desktop\admin\springboot-jwt\src\main\java\com\grokonez\jwtauthentication\repository\MunicipioRepository.java
